@@ -1,14 +1,10 @@
- header{ 
+#immagine sfondo{ 
     background-color: #4EA0FF;
-    height: 150px;
-    background-image: url(/img/pattern.png);
-    background-repeat: repeat;
+    height: 170px;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
 } 
 
-#immagine sfondo {
-    width: 100px;
-    height: 150px;
-}
 
     #logo {
         width: 100px;
