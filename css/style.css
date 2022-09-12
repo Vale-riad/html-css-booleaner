@@ -1,4 +1,4 @@
-#immagine sfondo{ 
+#immaginesfondo{ 
     background-color: #4EA0FF;
     height: 170px;
     background-image: url(../img/pattern.png);
@@ -6,7 +6,7 @@
 } 
 
 
-    #logo {
+    #logo{
         width: 100px;
         height: 150px;
     }
