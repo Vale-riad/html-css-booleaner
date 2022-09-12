@@ -1,12 +1,42 @@
-#immaginesfondo{ 
-    background-color: #4EA0FF;
-    height: 170px;
+
+#immagine-sfondo{ 
+    height: 175px;
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
-} 
-
-
-    #logo{
-        width: 100px;
-        height: 150px;
+    background-color: #4EA0FF;
+}
+ #logo{
+        width: 250px;
+        height: 250px;
     }
+
+    .title{
+        font-size: 60px;
+        font-weight: bold;
+    }
+    .info{
+        font-size: 15px;
+        color: #808080;
+    }
+    #autore{
+        color: #20A9E5;
+    }
+
+    .immagini-tim{ 
+
+        width: 543px;
+        height: 362px
+    }
+
+    th{
+        width: 750px;
+        background-color:  #20A9E5;
+        color: white;
+    }
+
+    
+.linea-blu{
+    background-color: #B1E5F2;
+}
+
+    
